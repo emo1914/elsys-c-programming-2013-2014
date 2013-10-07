@@ -2,9 +2,9 @@
 
 int main(){
 
-	int e;
-	for(e=1;e<256;e++){
-		printf("%d  -->  %c\n",e,e);
+	int a;
+	for(a=1;a<256;a++){
+		printf("%d  -->  %c\n",a,a);
 	}
 	return 0;
 }
